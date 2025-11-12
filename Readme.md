@@ -1,4 +1,4 @@
 Hello there, welcome
 
-<figure><embed src="https://wakatime.com/share/@katten23cool/0c5ea498-a012-46ce-b252-b4406e2ec476.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@katten23cool/26b90b4b-84a4-46c1-89bd-ce40a6e3d67d.png" /></a>
 
